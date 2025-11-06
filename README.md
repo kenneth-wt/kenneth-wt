@@ -15,7 +15,7 @@ Motivated and technically skilled **junior game programmer** with a passion for 
 ### 🛠 Tech Stack
 **Languages:** C#, Python, Java, HTML, CSS  
 **Engines:** Unity, Unreal Engine  
-**Tools:** Git, Blender, SQL, Trello, Visual Studio  
+**Tools:** Git, Jira, Trello, Figma, Blender, SQL, Visual Studio 
 
 ---
 
