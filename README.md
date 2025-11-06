@@ -5,7 +5,7 @@ Motivated and technically skilled **junior game programmer** with a passion for 
 ---
 
 ### 🎮 About Me
-- 💻 Game Programmer experienced in **Unity, C#, and VR development**
+- 💻 Game Programmer and Desginer experienced in **Unity, C#, and VR development**
 - 🥘 Worked on **MasterChef VR**, developing interactive cooking mechanics and optimizing VR performance
 - 🤝 Strong collaborator with designers, artists, and developers
 - 🚀 Seeking entry-level opportunities in **game or software development**
